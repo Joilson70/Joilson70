@@ -3,7 +3,7 @@
 - 🌱 Já desenvolvi um projeto sobre o desafio de Introdução ao GitHub, e estou terminando o segundo projeto que é Construindo meu primeiro Jogo de Naves.
 - 💞️ I’m looking to collaborate on ...todos os projetos que chegarem até mim!
 - 📫 How to reach me ...https://github.com/Joilson70
-## link para site em wordpress que editei: https://portoconteudo.com/
+## links para sites em wordpress que editei: https://portoconteudo.com/, https://andreamarins.com, https://titeregastronomia.com, https://oficinazinha.com.br, e no ambiente wix: https://lokram.com.br, https://peledemel.com.br
 <!---
 Joilson70/Joilson70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
