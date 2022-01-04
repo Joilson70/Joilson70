@@ -1,6 +1,6 @@
 - 👋 Olá, sou o Joilson Santos da Silva, no momento estou trabalhando na Porto Conteúdo como  Produtor de Eventos e Editor de sites nas Plataformas Wix e Wordpress.
 - 👀  Atualmente estou migrando de profissão, estou estudando no Bootcamp da Dio/MRV, estou aprendendo HTML, CSS e Java Script. Estou empolgado e esperançoso!
-- 🌱 Ainda não desenvolvi nenhum projeto, mas já estou sondando alguns projetos que já começarei a estudá-los.
+- 🌱 Já desenvolvi um projeto sobre o desafio de Introdução ao GitHub, e estou terminando o segundo projeto que é Construindo meu primeiro Jogo de Naves.
 - 💞️ I’m looking to collaborate on ...todos os projetos que chegarem até mim!
 - 📫 How to reach me ...https://github.com/Joilson70
 ## link para site em wordpress que editei: https://portoconteudo.com/
